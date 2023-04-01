@@ -85,31 +85,31 @@ print("RMSE= ",rmse)
 
 ![MODEL](tail.png)
 
-### Array of X:
+### Array of  value X :
 
 ![MODEL](array.png)
 
-### Array of Y:
+### Array of value Y :
 
 ![MODEL](side.png)
 
-### Y_Pred:
+### Values of Y Prediction :
 
 ![MODEL](point.png)
 
-### Y_test:
+### Array values of Y test :
 
 ![MODEL](small.png)
 
-### Training Set:
+### Training Set Graph :
 
 ![MODEL](training.png)
 
-### Testing  Set:
+### Test  Set Graph :
 
 ![MODEL](testing.png)
 
-### Values of MSE,MAE,RMSE:
+### Values of MSE,MAE,RMSE :
 
 ![MODEL](mse.png)
 
